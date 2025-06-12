@@ -29,3 +29,7 @@ This project is not affiliated with Amazon. It is for portfolio purposes only.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yeongyuchang/amazon-ui-clone.git
+
+2. Open the project folder in your editor (e.g. VS Code)
+
+3. Open amazon.html in your browser
