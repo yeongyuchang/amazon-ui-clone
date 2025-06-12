@@ -1,7 +1,7 @@
 # 🛒 Amazon UI Clone
 
 A frontend clone of the Amazon shopping website built with HTML, CSS, and JavaScript.  
-This project replicates the look and basic interactivity of key Amazon pages for educational purposes.
+This project replicates the look and basic interactivity of key Amazon pages.
 
 ---
 
